@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+
+}
+
+.main-title h1 {
+  font-size: 25px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.price-book-divide h2 {
+  font-size: 20px;
+  font-weight: 400;
+  color: #4dbca6;
+}
+
+.price-book-divide {
+  margin-bottom: 10px;
+}
