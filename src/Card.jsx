@@ -20,6 +20,9 @@ const Card = (props) => {
                 <a href={props.github}>
                   <button className="btn btn-dark">Github</button>
                 </a>
+                <a href={props.github}>
+                  <button className="btn btn-primary">Twitter</button>
+                </a>
               </div>
             </div>
           </div>
