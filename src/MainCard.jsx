@@ -41,7 +41,7 @@ function MainCard(props) {
           value={searchCategory}
           onChange={handleSearchCategoryChange}
         />
-        <button onClick={handleSearch}>Search</button>
+        <button className="search-button" onClick={handleSearch}>Search</button>
       </div>
 
       
