@@ -76,7 +76,7 @@ function MainCard(props) {
             {showCards && (
               <div className="row my-5">
                 {filteredData.map((elem) => {
-                  const { id, name, image, username, price, description } = elem;
+                  const { id, name, image, username, price, description,github } = elem;
 
                   return (
                     <props.Card
@@ -87,6 +87,7 @@ function MainCard(props) {
                       username={username}
                       price={price}
                       description={description}
+                      github={github}
                     />
                   );
                 })}
