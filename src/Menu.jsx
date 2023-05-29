@@ -5,7 +5,7 @@ const Menu=[
         image:"images/Adnan1.jpg",
         username:"hittitech",
         description:"We love Opensource ❤️",
-        github:"https://github.com/Hittitech/Open-Source-Restaurant"
+        github:"https://github.com/Hittitech"
     
     },
    
