@@ -36,15 +36,6 @@ const Menu=[
     github:"https://github.com/Hittitech/Open-Source-Restaurant"
 
 },
-{
-    id:5,
-    name:"Kunal",
-    image:"images/cat.jpg",
-    username:"kunal",
-    description:"We love Opensource ❤️",
-    github:"https://github.com/Hittitech/Open-Source-Restaurant"
-
-},
 
   
     
